@@ -1,0 +1,11 @@
+node_modules
+.test-env
+.yarnclean
+yarn-error.log
+.vscode
+.eslintcache
+.log
+lerna-debug.log
+package-lock.json
+**/dist/**
+**/lib/**
